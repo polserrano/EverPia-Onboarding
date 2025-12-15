@@ -1,7 +1,7 @@
-[CV-RUI](cvrui)
+[CV-RUI](RUI.md)
 
-[CV-DANIEL G](cvdanielg)
+[CV-DANIEL G](DANIELG.md)
 
-[CV-DANIEL MG](cvdanielmg)
+[CV-DANIEL MG](DANIELMG.md)
 
-[CV-JOAN](cvjoan)
+[CV-JOAN](JOAN.md)
